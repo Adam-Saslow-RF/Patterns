@@ -18,3 +18,9 @@
 /Users/adamsaslow/Patterns/Propagator/obj/Debug/netcoreapp3.1/PropagatorPattern.AssemblyInfo.cs
 /Users/adamsaslow/Patterns/Propagator/obj/Debug/netcoreapp3.1/PropagatorPattern.dll
 /Users/adamsaslow/Patterns/Propagator/obj/Debug/netcoreapp3.1/PropagatorPattern.pdb
+C:\RareFaction Projects\Patterns\Propagator\obj\Debug\netcoreapp3.1\PropagatorPattern.csprojAssemblyReference.cache
+C:\RareFaction Projects\Patterns\Propagator\obj\Debug\netcoreapp3.1\PropagatorPattern.AssemblyInfoInputs.cache
+C:\RareFaction Projects\Patterns\Propagator\obj\Debug\netcoreapp3.1\PropagatorPattern.AssemblyInfo.cs
+C:\RareFaction Projects\Patterns\Propagator\obj\Debug\netcoreapp3.1\PropagatorPattern.csproj.CoreCompileInputs.cache
+C:\RareFaction Projects\Patterns\Propagator\obj\Debug\netcoreapp3.1\PropagatorPattern.dll
+C:\RareFaction Projects\Patterns\Propagator\obj\Debug\netcoreapp3.1\PropagatorPattern.pdb
